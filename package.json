@@ -1,0 +1,25 @@
+{
+  "name": "Workflow",
+  "version": "1.0.0",
+  "description": "Workflow made with gulp",
+  "main": "index.js",
+  "keywords": [
+    "Sass",
+    "Jade",
+    "JavaScript",
+    "JSON"
+  ],
+  "author": {
+    "name": "Andres Felipe Alarcon",
+    "email": "maximux13@gmail.com",
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.7.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.2.0",
+    "gulp-jade": "^1.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-ruby-sass": "^1.0.5"
+  }
+}

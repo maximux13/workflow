@@ -1,0 +1,15 @@
+{
+  "name": "Workflow",
+  "version": "1.0.0",
+  "authors": [
+    "Andres Felipe Alarcón <maximux13@gmail.com>"
+  ],
+  "description": "Workflow made with gulp",
+  "keywords": [
+    "Jade",
+    "Sass",
+    "JavaScript",
+    "JSON"
+  ],
+  "license": "MIT"
+}
